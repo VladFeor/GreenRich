@@ -97,7 +97,6 @@ body {
   width: 100%;
   background: #2b2b2b;
   position: relative;
-  background: no-repeat center / 100% url('/img/Untitled.jpg');
   overflow: hidden;
 }
 .nav__content {
@@ -130,7 +129,7 @@ body {
 }
 .intro__content {
   position: absolute;
-  top: 35%;
+  top: 30%;
   text-transform: uppercase;
 }
 .intro__title {
